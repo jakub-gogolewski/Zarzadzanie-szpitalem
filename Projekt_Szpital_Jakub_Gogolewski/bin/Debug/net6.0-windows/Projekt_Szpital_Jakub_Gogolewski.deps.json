@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projekt_Szpital_Jakub_Gogolewski/1.0.0": {
+        "dependencies": {
+          "Pracownicy": "1.0.0"
+        },
+        "runtime": {
+          "Projekt_Szpital_Jakub_Gogolewski.dll": {}
+        }
+      },
+      "Pracownicy/1.0.0": {
+        "runtime": {
+          "Pracownicy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projekt_Szpital_Jakub_Gogolewski/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pracownicy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

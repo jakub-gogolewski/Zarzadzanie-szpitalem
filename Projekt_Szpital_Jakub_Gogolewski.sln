@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekt_Szpital_Jakub_Gogolewski", "Projekt_Szpital_Jakub_Gogolewski\Projekt_Szpital_Jakub_Gogolewski.csproj", "{B1BDE555-94A1-42BE-BE9D-7E7322C0DF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pracownicy", "Pracownicy\Pracownicy.csproj", "{E60EB3A6-6C01-499E-B6F0-331B66252A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1BDE555-94A1-42BE-BE9D-7E7322C0DF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BDE555-94A1-42BE-BE9D-7E7322C0DF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BDE555-94A1-42BE-BE9D-7E7322C0DF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BDE555-94A1-42BE-BE9D-7E7322C0DF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60EB3A6-6C01-499E-B6F0-331B66252A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60EB3A6-6C01-499E-B6F0-331B66252A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60EB3A6-6C01-499E-B6F0-331B66252A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60EB3A6-6C01-499E-B6F0-331B66252A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E81EF566-1C5E-4D41-BB0C-32C371DE6B00}
+	EndGlobalSection
+EndGlobal
